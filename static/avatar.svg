@@ -1,0 +1,8 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg" version="1.1" width="92" height="92" viewbox="0 0 92 92">
+    <path d="M36,18.5 a 10,10 0 0,0 -10,10 a 20 20 0 1 0 40 0 a 10 10 0 0 0 -10 -10 Z"
+        fill="orange" stroke="#000" stroke-width="3" />
+    <path d="M 46 48.5 v 5" fill="none" stroke="#000" stroke-width="3"/>
+    <path d="M 46 53.5 a 18 18 0 1 0 36 0" fill="none" stroke="#000" stroke-width="3"/>
+    <path d="M 46 53.5 a 18 18 0 1 1 -36 0" fill="none" stroke="#000" stroke-width="3"/>
+</svg>
